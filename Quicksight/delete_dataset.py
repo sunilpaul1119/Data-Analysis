@@ -32,7 +32,7 @@ def delete_quicksight_dataset(aws_account_id, dataset_id, region='eu-west-1'):
 
 
 # Example usage:
-aws_account_id = '463470983418'  # Replace with your AWS account ID
+aws_account_id = 'xxxx'  # Replace with your AWS account ID
 dataset_id = 'bc77bcb9-7ade-48f3-9b35-68f1aaf3da81'  # Replace with the ID of the dataset you want to delete
 
 # Call the function

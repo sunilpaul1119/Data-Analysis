@@ -61,8 +61,8 @@ def copy_quicksight_dataset(aws_account_id, old_dataset_id, new_dataset_name, re
 
 
 # Example usage:
-aws_account_id = '463470983418'  # Replace with your AWS account ID
-old_dataset_id = '03443073-4dd0-4c9f-8431-ce1aea20432e'  # Replace with the ID of the dataset you want to copy
+aws_account_id = 'xxxx'  # Replace with your AWS account ID
+old_dataset_id = 'xxxx'  # Replace with the ID of the dataset you want to copy
 new_dataset_name = 'Dev_People_Overview'  # Name for the new dataset
 
 # Call the function

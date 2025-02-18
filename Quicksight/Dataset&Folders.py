@@ -9,7 +9,7 @@ from pandas.core.dtypes.cast import convert_dtypes
 client = boto3.client('quicksight')
 
 # Your AWS account ID
-aws_account_id = '463470983418'
+aws_account_id = 'XXXX'
 
 # Function to list all shared folders
 def list_shared_folders():
